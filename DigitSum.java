@@ -1,4 +1,4 @@
-""" jnllnln"""
+// java is not a coffee
 	
 import java.util.Scanner;
 class DigitSum{
