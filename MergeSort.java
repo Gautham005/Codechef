@@ -11,6 +11,7 @@ class MergeSort{
 
     for (int i=0; i<n1; ++i)
     L[i] = a[l + i];
+    
     for (int j=0; j<n2; ++j)
     R[j] = a[m + 1+ j];
 
@@ -65,6 +66,7 @@ class MergeSort{
 
   public static void main(String args[])
   {
+    
     Scanner sc = new Scanner(System.in);
     int t;
     int temp=0;
@@ -75,7 +77,6 @@ class MergeSort{
     MergeSort tb=new MergeSort();
     tb.sort(a,0,a.length-1);
     tb.print(a);
-
 
 }
 }
