@@ -1,3 +1,4 @@
+//This is cool
 import java.util.Scanner;
 import java.util.*;
 class ChefandFruits{
