@@ -1,3 +1,4 @@
+// That's how we roll
 import java.util.Scanner;
 class EnormousInput
 {
