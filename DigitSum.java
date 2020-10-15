@@ -1,4 +1,4 @@
-// java is not a coffee
+// java is not a coffee. It's more than a coffee
 	
 import java.util.Scanner;
 class DigitSum{
