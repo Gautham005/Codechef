@@ -1,5 +1,3 @@
-// java is not a coffee. It's more than a coffee
-	
 import java.util.Scanner;
 class DigitSum{
 	public static void main(String[] args) {
