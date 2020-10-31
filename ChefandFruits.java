@@ -1,4 +1,3 @@
-//This is cool
 import java.util.Scanner;
 import java.util.*;
 class ChefandFruits{
@@ -28,4 +27,3 @@ class ChefandFruits{
 	}
 	}
 }
-// Game of thrones exists
